@@ -18,7 +18,7 @@ public class PlatformSpawner : MonoBehaviour
             for (int j = 0; j < 10; j++)
             {
                 Instantiate(platform, new Vector3(xPosition, 0, zPosition), Quaternion.identity);
-                zPosition += 10;
+                zPosition += 20;
             }
             zPosition = 0;
         }
