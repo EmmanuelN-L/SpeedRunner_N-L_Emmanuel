@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public float playerVelocity;
     public float jumpForce;
+    
 
     private float playerSpeed;
     private bool isJumping = false;
@@ -82,6 +83,11 @@ public class PlayerMovement : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         isJumping = false;
+    }
+
+    public void setVelocity(float vel)
+    {
+        playerVelocity = vel;
     }
 
 }

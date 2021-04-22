@@ -5,6 +5,7 @@ using UnityEngine;
 public class PlatformSpawner : MonoBehaviour
 {
     public GameObject platform;
+    public GameObject player;
     private float xPosition = 0;
     private float zPosition = 0;
 
@@ -23,7 +24,8 @@ public class PlatformSpawner : MonoBehaviour
             zPosition = 0;
         }
 
-        
+        Instantiate(player, new Vector3(5, 1, 0), Quaternion.identity);
+
     }
 
     // Update is called once per frame

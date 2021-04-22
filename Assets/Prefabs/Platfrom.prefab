@@ -94,8 +94,8 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1, y: 1, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
+  m_Size: {x: 1, y: 1.5543637, z: 1}
+  m_Center: {x: 0, y: 0.27718186, z: 0}
 --- !u!114 &6032993135083623030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -109,3 +109,5 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rend: {fileID: 416029072926967613}
+  obstacle1: {fileID: 2228684188150667749, guid: a374e8cb4dcb6084d9d69be77a23a2af, type: 3}
+  playerCharacter: {fileID: 4879038162795986395, guid: b4e5e4505884b734ba807a8025a24697, type: 3}
