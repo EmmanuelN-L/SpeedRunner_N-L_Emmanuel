@@ -980,3 +980,11 @@ Received Import Request.
 Start importing Assets/Sound_Music using Guid(221d3701e20ad704da6da075b6d354af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cabd97998eeed03f7e3ceb1ac01a4a5c') in 0.001712 seconds
   Import took 0.003350 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 692.951659 seconds.
+  path: Assets/Sound_Music/進撃 st hrn egt20130629 巨人    -   Shigekin no kyojin.wav
+  artifactKey: Guid(94f6e1e6a4aee1f4aa5b94161ca965a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound_Music/進撃 st hrn egt20130629 巨人    -   Shigekin no kyojin.wav using Guid(94f6e1e6a4aee1f4aa5b94161ca965a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb6f468d02f0a58ea63d869762609b4') in 0.099194 seconds
+  Import took 0.102238 seconds .
+
