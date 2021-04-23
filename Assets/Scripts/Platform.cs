@@ -5,7 +5,7 @@ using UnityEngine;
 public class Platform : MonoBehaviour
 {
     public Renderer rend;
-    public GameObject obstacle1;
+    //public GameObject obstacle1;
     
 
     public bool redPlatform;
@@ -67,7 +67,7 @@ public class Platform : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             pm.setVelocity(5f);
-            Debug.Log("Reset");
+            //Debug.Log("Reset");
         }
     }
 

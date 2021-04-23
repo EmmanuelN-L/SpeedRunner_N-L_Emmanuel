@@ -74,11 +74,12 @@ public class PlayerMovement : MonoBehaviour
         if(context.performed)
         {
             if (isJumping) return;
-
-            //PlayerAnimator.SetBool(IsJumpingHash, value.isPressed);
+            
+            isJumping = true;
+            playerAnimator.SetBool(IsJumpingHash, isJumping);
             jumpSfx.Play();
             playerRigidbody.AddForce((playerTransform.up + playerTransform.forward) * jumpForce, ForceMode.Impulse);
-            isJumping = true;
+            
         }
     } 
     public void OnPause(InputAction.CallbackContext context)
@@ -91,6 +92,7 @@ public class PlayerMovement : MonoBehaviour
     private void OnCollisionEnter(Collision collision)
     {
         isJumping = false;
+        playerAnimator.SetBool(IsJumpingHash, isJumping);
     }
 
     public void setVelocity(float vel)

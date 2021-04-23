@@ -7,7 +7,7 @@ public class PlatformSpawner : MonoBehaviour
     public GameObject platform;
     public GameObject player;
     private float xPosition = 0;
-    private float zPosition = 0;
+    private float zPosition = 20;
 
     // Start is called before the first frame update
     void Start()
@@ -21,7 +21,7 @@ public class PlatformSpawner : MonoBehaviour
                 Instantiate(platform, new Vector3(xPosition, 0, zPosition), Quaternion.identity);
                 zPosition += 20;
             }
-            zPosition = 0;
+            zPosition = 20;
         }
 
         //Instantiate(player, new Vector3(5, 10, 0), Quaternion.identity);
