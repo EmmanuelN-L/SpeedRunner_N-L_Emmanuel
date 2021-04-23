@@ -7,7 +7,7 @@ public class PlayerMovement : MonoBehaviour
 {
     public float playerVelocity;
     public float jumpForce;
-    
+    public GameObject canvas;    
 
     private float playerSpeed;
     private bool isJumping = false;
@@ -18,15 +18,15 @@ public class PlayerMovement : MonoBehaviour
 
     public readonly int IsJumpingHash = Animator.StringToHash("IsJumping");
 
-
-
     // Start is called before the first frame update
     void Start()
     {
+        Time.timeScale = 1;
+        canvas.SetActive(false);
+
         playerTransform = transform;
         playerRigidbody = GetComponent<Rigidbody>();
         playerAnimator = GetComponent<Animator>();
-        //GetComponent<Rigidbody>().velocity = new Vector3(0, 0, 3);
     }
 
     // Update is called once per frame
@@ -78,6 +78,12 @@ public class PlayerMovement : MonoBehaviour
             playerRigidbody.AddForce((playerTransform.up + playerTransform.forward) * jumpForce, ForceMode.Impulse);
             isJumping = true;
         }
+    } 
+    public void OnPause(InputAction.CallbackContext context)
+    {
+        Debug.Log("Pause");
+        canvas.SetActive(true);
+        Time.timeScale = 0;        
     }
 
     private void OnCollisionEnter(Collision collision)
@@ -89,5 +95,4 @@ public class PlayerMovement : MonoBehaviour
     {
         playerVelocity = vel;
     }
-
 }

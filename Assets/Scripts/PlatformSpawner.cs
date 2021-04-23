@@ -24,8 +24,7 @@ public class PlatformSpawner : MonoBehaviour
             zPosition = 0;
         }
 
-        Instantiate(player, new Vector3(5, 1, 0), Quaternion.identity);
-
+        //Instantiate(player, new Vector3(5, 10, 0), Quaternion.identity);
     }
 
     // Update is called once per frame
