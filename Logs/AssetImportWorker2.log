@@ -1078,3 +1078,1235 @@ System memory in use after: 110.5 MB.
 Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2167.
 Total: 1.973500 ms (FindLiveObjects: 0.208900 ms CreateObjectMapping: 0.035500 ms MarkObjects: 1.706000 ms  DeleteObjects: 0.021900 ms)
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000566 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.36 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.4 MB.
+System memory in use after: 110.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2170.
+Total: 1.815500 ms (FindLiveObjects: 0.163800 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.600200 ms  DeleteObjects: 0.014300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001006 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.251 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.4 MB.
+System memory in use after: 110.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2173.
+Total: 2.662500 ms (FindLiveObjects: 0.346600 ms CreateObjectMapping: 0.049200 ms MarkObjects: 2.250600 ms  DeleteObjects: 0.014700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1118.395073 seconds.
+  path: Assets/Art/exo_gray@Two Cycle Sprint.fbx
+  artifactKey: Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/exo_gray@Two Cycle Sprint.fbx using Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e906cd23469a07fa418065d87237a532') in 0.961053 seconds
+  Import took 0.965285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.218379 seconds.
+  path: Assets/Art/Animations
+  artifactKey: Guid(33b07084a2d5b274d8c48506d65ab755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations using Guid(33b07084a2d5b274d8c48506d65ab755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '345cacef21b8bc706abeb4c69e6de6a0') in 0.014240 seconds
+  Import took 0.018996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.933840 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx
+  artifactKey: Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx using Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c0c1ac7973ae4f72ab36361c87700b3') in 0.131443 seconds
+  Import took 0.136596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.138136 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx
+  artifactKey: Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx using Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0e8a2981521e40b164d8713f17a442a') in 0.156892 seconds
+  Import took 0.163835 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.888045 seconds.
+  path: Assets/Prefabs/PlayerCharacter.prefab
+  artifactKey: Guid(b4e5e4505884b734ba807a8025a24697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/PlayerCharacter.prefab using Guid(b4e5e4505884b734ba807a8025a24697) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '532bdabae800fc6851544c10db2555e6') in 0.059565 seconds
+  Import took 0.064214 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.309134 seconds.
+  path: Assets/Prefabs/EnemyChaser.prefab
+  artifactKey: Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyChaser.prefab using Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29366c02b45df82398c1686e76851a6') in 0.051260 seconds
+  Import took 0.057205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.300068 seconds.
+  path: Assets/Prefabs/EnemyChaser.prefab
+  artifactKey: Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyChaser.prefab using Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e507d550d979c2ec045b7714a720db3') in 0.046513 seconds
+  Import took 0.052422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.446367 seconds.
+  path: Assets/Art/Animations/PlayerAnimatorController.controller
+  artifactKey: Guid(5fc0c71079900e948b21a36319ac741b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/PlayerAnimatorController.controller using Guid(5fc0c71079900e948b21a36319ac741b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65d1e8d0fd82571dd90acec080705b75') in 0.026230 seconds
+  Import took 0.029963 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.322664 seconds.
+  path: Assets/Art/Animations/EnemyAnimator.controller
+  artifactKey: Guid(2ae3b60637b20bd45b8a48cf4702d761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/EnemyAnimator.controller using Guid(2ae3b60637b20bd45b8a48cf4702d761) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e25e14c13edef05c75c7ed9ca7f29f2') in 0.016692 seconds
+  Import took 0.022385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.352588 seconds.
+  path: Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm
+  artifactKey: Guid(291ab893bf753504894baa9bd7b6411b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm using Guid(291ab893bf753504894baa9bd7b6411b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bea2be2bb57111e0265f7d3fa0d8bc4') in 0.015023 seconds
+  Import took 0.019941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.067967 seconds.
+  path: Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_diffuse.png
+  artifactKey: Guid(28694ecfbc8690e459a5ee3bba7af397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_diffuse.png using Guid(28694ecfbc8690e459a5ee3bba7af397) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56e7a6406355c36eec68ec5e3d441c3') in 0.074990 seconds
+  Import took 0.079793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000380 seconds.
+  path: Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_glow.png
+  artifactKey: Guid(5462012748725a04e828254cb7ca91f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_glow.png using Guid(5462012748725a04e828254cb7ca91f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9b2ca546a5e6ee33f137a997f417d2') in 0.017123 seconds
+  Import took 0.020012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_normal.png
+  artifactKey: Guid(775e99b4c59a76a46a6901143f3fd85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_normal.png using Guid(775e99b4c59a76a46a6901143f3fd85e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '886b4c7a60f9ff256e066a5f8e18a69b') in 0.041760 seconds
+  Import took 0.045052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_specular.png
+  artifactKey: Guid(c2d5a034456ce0d45a13ca700fd56eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/PlayerCharacter/ely_k_atienza@Running.fbm/ely-vanguardsoldier-kerwinatienza_specular.png using Guid(c2d5a034456ce0d45a13ca700fd56eb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87d5df0dd36138c4d7b873c659cee31a') in 0.022721 seconds
+  Import took 0.026033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.753946 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010202 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.013608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_normal.png
+  artifactKey: Guid(db20fa82248cdd24d999d4fac8994107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_normal.png using Guid(db20fa82248cdd24d999d4fac8994107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f77801293b655dce782909ce6ce2c16') in 0.045729 seconds
+  Import took 0.048977 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010954 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.013990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007183 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.011344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000659 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011253 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.015722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.023533 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.026681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000387 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.021653 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.025691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000342 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007768 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.011626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000333 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009409 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.013993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009777 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.013240 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010216 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.014145 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.012591 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.015533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000155 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013201 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.016080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000340 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010901 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.013618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007846 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.010673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008493 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.011866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001658 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009289 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.012379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011358 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.014658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013387 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.016266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010929 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.013940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013611 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.016612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009948 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.013635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002662 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008427 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.012339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.008272 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.011265 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000462 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009528 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.012657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.018419 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.021047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011274 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.014804 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.013611 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.017126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011112 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.014705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.012909 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.015906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009343 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.012438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.021738 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.025532 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007767 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.011111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.012745 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.015793 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.022650 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.025231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006368 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.011294 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000474 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010524 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.014609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000758 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007290 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.010574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007109 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.010533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001160 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009005 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.013369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000383 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007543 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.011601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.012575 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.016611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007699 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.010875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010878 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.013839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007328 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.010747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.004992 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.009355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005939 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011724 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.015267 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009625 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.014078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002477 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007071 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.010469 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.009211 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.012365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.011121 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.013968 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.006250 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_specular.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1911229Z' while content on disk has modification time of '2021-04-23T03:05:24.8436149Z'
+  Import took 0.009655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.007207 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/exo_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1891231Z' while content on disk has modification time of '2021-04-23T03:05:24.8406144Z'
+  Import took 0.010391 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.010143 seconds
+  ERROR: Build asset version error: assets/art/animations/exo_gray@two cycle sprint.fbm/body_diffuse.png in SourceAssetDB has modification time of '2021-04-23T03:05:23.1761192Z' while content on disk has modification time of '2021-04-23T03:05:24.8276112Z'
+  Import took 0.015366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.851887 seconds.
+  path: Assets/Art/Animations/Two Cycle Sprint.anim
+  artifactKey: Guid(d8dea8f1eca044347b7c3ca9ca7b2731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/Two Cycle Sprint.anim using Guid(d8dea8f1eca044347b7c3ca9ca7b2731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c862e3fde6e3def81ff3ecafe81aaf4') in 0.027469 seconds
+  Import took 0.031404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.491412 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png
+  artifactKey: Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_diffuse.png using Guid(cbc82b2b8a936c7439b9c32e0690b9bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032f38069254de517d939ce558d7b1d7') in 0.018680 seconds
+  Import took 0.022512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_specular.png
+  artifactKey: Guid(f916981fc820d1841b487a425871fd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_specular.png using Guid(f916981fc820d1841b487a425871fd0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1d842bc5ce39d16272b6788a9fb6f1') in 0.016041 seconds
+  Import took 0.019740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png
+  artifactKey: Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_diffuse.png using Guid(f9e7653ebfa5d62458507fb6ca1ac27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a38ab6b10ca5b3485c3b556c0a45081d') in 0.021162 seconds
+  Import took 0.024685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000358 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_normal.png
+  artifactKey: Guid(1426bbef35b1b5a4bb9b66440ceeb691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/BODY_normal.png using Guid(1426bbef35b1b5a4bb9b66440ceeb691) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69014479d9638a4f4c499193f55fd89a') in 0.020010 seconds
+  Import took 0.023175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png
+  artifactKey: Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbm/EXO_specular.png using Guid(eaa1e5447c7407145bef69882ead52b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ff781e52c87dfad8c2ef601c829cb3') in 0.023399 seconds
+  Import took 0.027664 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.711172 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx
+  artifactKey: Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx using Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94408bc7fd66bd84c850400304f18223') in 0.139668 seconds
+  Import took 0.145093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.227122 seconds.
+  path: Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx
+  artifactKey: Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/exo_gray@Two Cycle Sprint.fbx using Guid(e8fc8a19a97a98e40a3e89c769546faa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b85c34c555d668f2fe8f650fc44ef13d') in 0.145024 seconds
+  Import took 0.150758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.410639 seconds.
+  path: Assets/Art/Animations/Two Cycle Sprint.anim
+  artifactKey: Guid(d8dea8f1eca044347b7c3ca9ca7b2731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/Two Cycle Sprint.anim using Guid(d8dea8f1eca044347b7c3ca9ca7b2731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f794dfdc19450e5e89816934f10ae09d') in 0.026654 seconds
+  Import took 0.030724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002726 seconds.
+  path: Assets/Art/Animations/Two Cycle Sprint.anim
+  artifactKey: Guid(d8dea8f1eca044347b7c3ca9ca7b2731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/Two Cycle Sprint.anim using Guid(d8dea8f1eca044347b7c3ca9ca7b2731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f794dfdc19450e5e89816934f10ae09d') in 0.027671 seconds
+  Import took 0.031277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.520837 seconds.
+  path: Assets/Art/Animations/Enemy
+  artifactKey: Guid(79f90b16f0aa3a049af821de0d5eed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/Enemy using Guid(79f90b16f0aa3a049af821de0d5eed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2542368b7bbba3f9117250021b9ebbec') in 0.015789 seconds
+  Import took 0.019177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000487 seconds.
+  path: Assets/Art/Animations/Enemy
+  artifactKey: Guid(79f90b16f0aa3a049af821de0d5eed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/Animations/Enemy using Guid(79f90b16f0aa3a049af821de0d5eed97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2542368b7bbba3f9117250021b9ebbec') in 0.009353 seconds
+  Import took 0.013282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.163904 seconds.
+  path: Assets/Prefabs/EnemyChaser.prefab
+  artifactKey: Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyChaser.prefab using Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63e59cf1500738ebc02f92b391bec02e') in 0.058973 seconds
+  Import took 0.064157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.392850 seconds.
+  path: Assets/Prefabs/EnemyChaser.prefab
+  artifactKey: Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/EnemyChaser.prefab using Guid(1ca35e153e4ee7f4f97d3823e9c4d6f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) The Animator Controller (EnemyAnimator) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:Internal_InstantiateRemoveAllNonAnimationComponentsSingle (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateRemoveAllNonAnimationComponents (UnityEngine.Object,UnityEngine.Vector3,UnityEngine.Quaternion)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+The Animator Controller (EnemyAnimator) you have used is not valid. Animations will not play
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+[C:\buildslave\unity\build\Modules/Animation/Director/AnimatorControllerPlayable.cpp line 333]
+
+ -> (artifact id: '6e70f41f7e493038ee2f91c41b7999c4') in 0.052463 seconds
+  Import took 0.058709 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000606 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.741 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.1 MB.
+System memory in use after: 111.2 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2216.
+Total: 1.731500 ms (FindLiveObjects: 0.229700 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.452800 ms  DeleteObjects: 0.012100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 504.942827 seconds.
+  path: Assets/Scripts/EnemyMovement.cs
+  artifactKey: Guid(43dd93879b25ecb4faed9743dca6d128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyMovement.cs using Guid(43dd93879b25ecb4faed9743dca6d128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c51171becb2171c8c79ba2872f3fc3d') in 0.011723 seconds
+  Import took 0.014356 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000828 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.34 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2220.
+Total: 1.850400 ms (FindLiveObjects: 0.184300 ms CreateObjectMapping: 0.036100 ms MarkObjects: 1.613000 ms  DeleteObjects: 0.015500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000595 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2223.
+Total: 1.717900 ms (FindLiveObjects: 0.201600 ms CreateObjectMapping: 0.036300 ms MarkObjects: 1.467400 ms  DeleteObjects: 0.011700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 96.732768 seconds.
+  path: Assets/Scripts/EnemyMovement.cs
+  artifactKey: Guid(43dd93879b25ecb4faed9743dca6d128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyMovement.cs using Guid(43dd93879b25ecb4faed9743dca6d128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f54ef7e260e3120c24879d6974113e') in 0.006616 seconds
+  Import took 0.009016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.719823 seconds.
+  path: Assets/Scripts/EnemyMovement.cs
+  artifactKey: Guid(43dd93879b25ecb4faed9743dca6d128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/EnemyMovement.cs using Guid(43dd93879b25ecb4faed9743dca6d128) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82f54ef7e260e3120c24879d6974113e') in 0.001741 seconds
+  Import took 0.003936 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.739 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2226.
+Total: 2.352000 ms (FindLiveObjects: 0.323300 ms CreateObjectMapping: 0.050400 ms MarkObjects: 1.960400 ms  DeleteObjects: 0.016600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000556 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.728 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2229.
+Total: 1.820100 ms (FindLiveObjects: 0.199600 ms CreateObjectMapping: 0.037800 ms MarkObjects: 1.567500 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.772 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2232.
+Total: 1.786600 ms (FindLiveObjects: 0.181800 ms CreateObjectMapping: 0.037700 ms MarkObjects: 1.550300 ms  DeleteObjects: 0.015600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000595 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2235.
+Total: 2.031200 ms (FindLiveObjects: 0.283400 ms CreateObjectMapping: 0.044200 ms MarkObjects: 1.685900 ms  DeleteObjects: 0.016200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000596 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.737 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2238.
+Total: 1.759500 ms (FindLiveObjects: 0.232500 ms CreateObjectMapping: 0.041500 ms MarkObjects: 1.472100 ms  DeleteObjects: 0.012100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000583 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2241.
+Total: 1.916200 ms (FindLiveObjects: 0.221400 ms CreateObjectMapping: 0.036800 ms MarkObjects: 1.642300 ms  DeleteObjects: 0.014300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000691 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.718 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2244.
+Total: 1.992500 ms (FindLiveObjects: 0.247600 ms CreateObjectMapping: 0.038600 ms MarkObjects: 1.687200 ms  DeleteObjects: 0.017600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000664 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2247.
+Total: 2.286100 ms (FindLiveObjects: 0.347600 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.881700 ms  DeleteObjects: 0.017200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000573 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.25 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 1.757200 ms (FindLiveObjects: 0.251000 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.446900 ms  DeleteObjects: 0.010400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1337.666606 seconds.
+  path: Assets/Prefabs/Platfrom.prefab
+  artifactKey: Guid(b2fd358ed26099d43b8b3b46c4ef8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Platfrom.prefab using Guid(b2fd358ed26099d43b8b3b46c4ef8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa13340dd4c8c8023a6cbd09b480c930') in 0.058229 seconds
+  Import took 0.060597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.345217 seconds.
+  path: Assets/Prefabs/Platfrom.prefab
+  artifactKey: Guid(b2fd358ed26099d43b8b3b46c4ef8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Platfrom.prefab using Guid(b2fd358ed26099d43b8b3b46c4ef8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff01693b959b7feef32e2a04a4f4eef6') in 0.007914 seconds
+  Import took 0.010521 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000565 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.755 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2255.
+Total: 1.799200 ms (FindLiveObjects: 0.200700 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.545100 ms  DeleteObjects: 0.016000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 88.072637 seconds.
+  path: Assets/Prefabs/Platfrom.prefab
+  artifactKey: Guid(b2fd358ed26099d43b8b3b46c4ef8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Platfrom.prefab using Guid(b2fd358ed26099d43b8b3b46c4ef8f82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bf1edb8e9795829b2931c7a4d6bec19') in 0.052305 seconds
+  Import took 0.055041 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000613 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.727 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2259.
+Total: 1.707500 ms (FindLiveObjects: 0.246000 ms CreateObjectMapping: 0.035500 ms MarkObjects: 1.411200 ms  DeleteObjects: 0.013600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000627 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.735 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2262.
+Total: 1.656400 ms (FindLiveObjects: 0.227500 ms CreateObjectMapping: 0.035900 ms MarkObjects: 1.380200 ms  DeleteObjects: 0.011100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000682 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.768 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.027800 ms (FindLiveObjects: 0.223100 ms CreateObjectMapping: 0.035400 ms MarkObjects: 1.753300 ms  DeleteObjects: 0.014200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1302.779944 seconds.
+  path: Assets/Scenes/MainGameScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainGameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '072657365c9e733c6c1ccd7c2ff2dc19') in 0.014014 seconds
+  Import took 0.016419 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.183629 seconds.
+  path: Assets/Scenes/GameOver 1.unity
+  artifactKey: Guid(9240bae110836f243954053cd792e398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOver 1.unity using Guid(9240bae110836f243954053cd792e398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee529f1cee589cd39f5e6ad1e3375d40') in 0.006012 seconds
+  Import took 0.008597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 51.508238 seconds.
+  path: Assets/Scenes/GameOverL.unity
+  artifactKey: Guid(9240bae110836f243954053cd792e398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverL.unity using Guid(9240bae110836f243954053cd792e398) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6872069732f1b9f54311e87a423d0ae5') in 0.007959 seconds
+  Import took 0.010475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.826787 seconds.
+  path: Assets/Scenes/GameOverW.unity
+  artifactKey: Guid(e118c0bd5af31d840a0e17f686fe35e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/GameOverW.unity using Guid(e118c0bd5af31d840a0e17f686fe35e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '113e39873eca18f90ab100851513face') in 0.006788 seconds
+  Import took 0.009395 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000632 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.720 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1556 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 111.2 MB.
+System memory in use after: 111.3 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2268.
+Total: 1.646500 ms (FindLiveObjects: 0.189700 ms CreateObjectMapping: 0.038200 ms MarkObjects: 1.401700 ms  DeleteObjects: 0.016200 ms)
+
