@@ -988,3 +988,93 @@ Received Import Request.
 Start importing Assets/Sound_Music/進撃 st hrn egt20130629 巨人    -   Shigekin no kyojin.wav using Guid(94f6e1e6a4aee1f4aa5b94161ca965a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb6f468d02f0a58ea63d869762609b4') in 0.099194 seconds
   Import took 0.102238 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000597 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.738 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.4 MB.
+System memory in use after: 110.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2160.
+Total: 2.018200 ms (FindLiveObjects: 0.223200 ms CreateObjectMapping: 0.036000 ms MarkObjects: 1.743600 ms  DeleteObjects: 0.013800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 704.796663 seconds.
+  path: Assets/Sound_Music/422426__behansean__jumps-start.wav
+  artifactKey: Guid(8885b4581e69ef04699e932b1fa43ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound_Music/422426__behansean__jumps-start.wav using Guid(8885b4581e69ef04699e932b1fa43ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0260c3cb4994c3df8db4e9055beae0') in 0.050192 seconds
+  Import took 0.053170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.269163 seconds.
+  path: Assets/Sound_Music/GameMusic.wav
+  artifactKey: Guid(94f6e1e6a4aee1f4aa5b94161ca965a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound_Music/GameMusic.wav using Guid(94f6e1e6a4aee1f4aa5b94161ca965a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a5afa30d05d3f224725fcecab5838e') in 0.012926 seconds
+  Import took 0.015311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 160.277567 seconds.
+  path: Assets/Sound_Music/JumpSound.wav
+  artifactKey: Guid(8885b4581e69ef04699e932b1fa43ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sound_Music/JumpSound.wav using Guid(8885b4581e69ef04699e932b1fa43ca4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c58bb82339345a3a8295f2684f42adcd') in 0.012996 seconds
+  Import took 0.015796 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000586 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.734 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.4 MB.
+System memory in use after: 110.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2164.
+Total: 1.928600 ms (FindLiveObjects: 0.224400 ms CreateObjectMapping: 0.036700 ms MarkObjects: 1.652500 ms  DeleteObjects: 0.013300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000650 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.27 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.714 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1555 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.4 MB.
+System memory in use after: 110.5 MB.
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 2167.
+Total: 1.973500 ms (FindLiveObjects: 0.208900 ms CreateObjectMapping: 0.035500 ms MarkObjects: 1.706000 ms  DeleteObjects: 0.021900 ms)
+

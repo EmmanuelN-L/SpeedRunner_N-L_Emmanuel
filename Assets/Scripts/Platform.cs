@@ -6,13 +6,15 @@ public class Platform : MonoBehaviour
 {
     public Renderer rend;
     public GameObject obstacle1;
-    private GameObject playerCharacter;
+    
 
-    private PlayerMovement pm;
     public bool redPlatform;
     public bool greenPlatform;
     public bool bluePlatform;
-    
+
+    private GameObject playerCharacter;
+    private PlayerMovement pm;
+
     // Start is called before the first frame update
     void Start()
     {

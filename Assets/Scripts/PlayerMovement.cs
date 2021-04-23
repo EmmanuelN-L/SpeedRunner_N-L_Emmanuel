@@ -7,7 +7,8 @@ public class PlayerMovement : MonoBehaviour
 {
     public float playerVelocity;
     public float jumpForce;
-    public GameObject canvas;    
+    public GameObject canvas;
+    public AudioSource jumpSfx;
 
     private float playerSpeed;
     private bool isJumping = false;
@@ -75,6 +76,7 @@ public class PlayerMovement : MonoBehaviour
             if (isJumping) return;
 
             //PlayerAnimator.SetBool(IsJumpingHash, value.isPressed);
+            jumpSfx.Play();
             playerRigidbody.AddForce((playerTransform.up + playerTransform.forward) * jumpForce, ForceMode.Impulse);
             isJumping = true;
         }
